@@ -47,15 +47,3 @@ This project demonstrates my understanding of low-level programming, runtime sup
 5. Outputs final machine-level instructions for execution.
 
 ---
-## Code Structure
-The project is organized as follows:
-```plaintext
-Compiler-Simulator/
-├── main.cpp          # Entry point for the compiler simulator
-├── parser.cpp        # Handles parsing of high-level instructions
-├── scanner.cpp       # Handles lexical analysis and tokenization
-├── symbolTable.cpp   # Manages symbol table operations
-└── runtime.cpp       # Implements runtime memory and control flow support
-```
-
----
